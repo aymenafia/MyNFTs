@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "gifu",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kaishin/Gifu",
+      "state" : {
+        "revision" : "51f2eab32903e336f590c013267cfa4d7f8b06c4",
+        "version" : "3.3.1"
+      }
+    },
+    {
+      "identity" : "nuke",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/Nuke.git",
+      "state" : {
+        "revision" : "a002b7fd786f2df2ed4333fe73a9727499fd9d97",
+        "version" : "10.11.2"
+      }
+    },
+    {
+      "identity" : "nukeui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/NukeUI",
+      "state" : {
+        "revision" : "17f26c07e6b1d3b9258287f99f528111fcd7b7ad",
+        "version" : "0.8.1"
+      }
+    },
+    {
+      "identity" : "swiftfulloadingindicators",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftfulThinking/SwiftfulLoadingIndicators",
+      "state" : {
+        "revision" : "85858c0246dcd781228301f9928519f75ce89758",
+        "version" : "0.0.4"
+      }
+    }
+  ],
+  "version" : 2
+}
